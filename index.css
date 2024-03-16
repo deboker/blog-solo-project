@@ -108,7 +108,7 @@ a:hover {
 /* news */
 
 .news-featured {
-  background-image: url(images/homeworkplace.webp);
+  background-image: url(public/images/homeworkplace.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
